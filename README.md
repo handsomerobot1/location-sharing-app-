@@ -11,31 +11,15 @@ A simple Android app to share and view users’ real-time locations on Google Ma
 ## 🚀 Screenshots
 <p align="center">
   <img src="1.jpg" alt="App Screenshot" width="250"/>
-</p>
-<p align="center">
   <img src="2.jpg" alt="App Screenshot" width="250"/>
-</p>
-
-<p align="center">
   <img src="3.jpg" alt="App Screenshot" width="250"/>
-</p>
-<p align="center">
   <img src="4.jpg" alt="App Screenshot" width="250"/>
-</p>
-
-<p align="center">
-<img src="5.jpg" alt="App Screenshot" width="250"/>
-</p>
-<p align="center">
+  <img src="5.jpg" alt="App Screenshot" width="250"/>
   <img src="6.jpg" alt="App Screenshot" width="250"/>
-</p>
-
-<p align="center">
   <img src="7.jpg" alt="App Screenshot" width="250"/>
-</p>
-<p align="center">
   <img src="8.jpg" alt="App Screenshot" width="250"/>
 </p>
+
 
 
 
